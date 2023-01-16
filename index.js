@@ -1,6 +1,6 @@
 const e = require('express');
 const express=require('express');
-const port=8001;
+const port=8000;
 
 // importing the Database
 const db=require('./config/mongoose');
